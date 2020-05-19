@@ -131,3 +131,4 @@ dmypy.json
 *.json
 
 tiktok-dl-pg.py
+downloaded/
